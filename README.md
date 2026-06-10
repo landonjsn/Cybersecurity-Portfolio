@@ -20,7 +20,6 @@ and incident response.
 | Linux File Permissions | Used Linux commands to manage file permissions | 🔄 In Progress |
 | SQL Filters | Applied filters to SQL queries | 🔄 In Progress |
 | Incident Journal | Documented incidents with a handler's journal | 🔄 In Progress |
-| Professional Statement | Drafted a professional cybersecurity statement | 🔄 In Progress |
-
+| Professional Statement | Drafted a professional cybersecurity statement | ✅ Complete |
 ## Certifications
 - Google Cybersecurity Certificate *(In Progress)*
