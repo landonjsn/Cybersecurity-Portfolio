@@ -15,7 +15,7 @@ and incident response.
 ## Portfolio Projects
 | Project | Description | Status |
 |---|---|---|
-| Security Audit | Conducted a full security audit for a small business | 🔄 In Progress |
+| Security Audit | Conducted a full security audit for a small business | ✅ Complete |
 | Network Analysis | Analyzed network structure and security | 🔄 In Progress |
 | Linux File Permissions | Used Linux commands to manage file permissions | 🔄 In Progress |
 | SQL Filters | Applied filters to SQL queries | 🔄 In Progress |
