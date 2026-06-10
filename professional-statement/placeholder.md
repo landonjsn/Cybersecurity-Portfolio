@@ -1,1 +1,3 @@
+# Professional Statement
+
 I am a Management Information Systems student at the University of Georgia with an emphasis in Information Security and a strong interest in cybersecurity. I am building hands-on experience in security analysis, risk assessment, networking, and incident response while pursuing cybersecurity certifications, including the Google Cybersecurity Certificate. My attention to detail, problem-solving abilities, and commitment to continuous learning help me support organizational security goals and contribute to a strong security posture. I am seeking an entry-level cybersecurity role where I can apply my skills and continue to grow in the field.
