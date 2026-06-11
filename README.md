@@ -16,7 +16,7 @@ and incident response.
 | Project | Description | Status |
 |---|---|---|
 | Security Audit | Conducted a full security audit for a small business | ✅ Complete |
-| Network Analysis | Analyzed network structure and security | 🔄 In Progress |
+| Network Analysis | Analyzed network structure and security | ✅ Complete |
 | Linux File Permissions | Used Linux commands to manage file permissions | ✅ Complete |
 | SQL Filters | Applied filters to SQL queries | ✅ Complete |
 | Incident Journal | Documented incidents with a handler's journal | 🔄 In Progress |
