@@ -20,6 +20,7 @@ and incident response.
 | Linux File Permissions | Used Linux commands to manage file permissions | ✅ Complete |
 | SQL Filters | Applied filters to SQL queries | ✅ Complete |
 | Incident Journal | Documented incidents with a handler's journal | 🔄 In Progress |
+| Vulnerability Assessment | Conducted a vulnerability assessment for an e-commerce company | ✅ Complete |
 | Professional Statement | Drafted a professional cybersecurity statement | ✅ Complete |
 ## Certifications
 - Google Cybersecurity Certificate *(In Progress)*
