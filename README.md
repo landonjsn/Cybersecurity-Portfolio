@@ -22,5 +22,7 @@ and incident response.
 | Incident Journal | Documented incidents with a handler's journal | ✅ Complete |
 | Vulnerability Assessment | Conducted a vulnerability assessment for an e-commerce company | ✅ Complete |
 | Professional Statement | Drafted a professional cybersecurity statement | ✅ Complete |
+| Python Algorithm | Developed a Python algorithm to update an IP address allow list | ✅ Complete |
+
 ## Certifications
 - Google Cybersecurity Certificate *(In Progress)*
