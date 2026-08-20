@@ -1,9 +1,7 @@
 # Cybersecurity Portfolio
 
 ## About Me
-Hi, I'm Landon Johnson. I'm currently completing the Google Cybersecurity Certificate 
-and building hands-on skills in security auditing, network analysis, Linux, SQL, 
-and incident response.
+Hi, I'm Landon Johnson, a Management Information Systems student at the University of Georgia with an emphasis in Information Security. I recently completed the Google Cybersecurity Certificate and have built hands-on skills in security auditing, network analysis, Linux, SQL, incident response, and Python. I'm passionate about cybersecurity and actively seeking entry-level opportunities where I can apply my skills and continue to grow in the field.
 
 ## Skills
 - Security auditing
