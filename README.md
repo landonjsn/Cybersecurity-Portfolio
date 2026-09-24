@@ -23,4 +23,5 @@ Hi, I'm Landon Johnson, a Management Information Systems student at the Universi
 | Python Algorithm | Developed a Python algorithm to update an IP address allow list | ✅ Complete |
 
 ## Certifications
-- Google Cybersecurity Certificate *(In Progress)*
+- Google Cybersecurity Certificate
+- CompTIA Security+ (In Progress)
